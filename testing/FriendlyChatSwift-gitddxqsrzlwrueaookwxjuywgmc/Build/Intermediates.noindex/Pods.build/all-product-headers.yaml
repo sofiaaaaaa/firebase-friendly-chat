@@ -1,0 +1,687 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GTMOAuth2/GTMOAuth2.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMOAuth2-Swift.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GTMOAuth2/GTMOAuth2.framework/Headers/GTMOAuth2-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMOAuth2-umbrella.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Target Support Files/GTMOAuth2/GTMOAuth2-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMOAuth2Authentication.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMOAuth2/Source/GTMOAuth2Authentication.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMOAuth2SignIn.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMOAuth2/Source/GTMOAuth2SignIn.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMOAuth2ViewControllerTouch.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMOAuth2/Source/Touch/GTMOAuth2ViewControllerTouch.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GTMOAuth2/GTMOAuth2.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMOAuth2.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMGatherInputStream.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMSessionFetcher/Source/GTMGatherInputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMMIMEDocument.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMSessionFetcher/Source/GTMMIMEDocument.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMReadMonitorInputStream.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMSessionFetcher/Source/GTMReadMonitorInputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GoogleAPIClientForREST/GoogleAPIClientForREST.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTLRBase64.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Utilities/GTLRBase64.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRBatchQuery.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRBatchQuery.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRBatchResult.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRBatchResult.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRDateTime.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRDateTime.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRDefines.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/GTLRDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRDuration.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRDuration.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRErrorObject.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRErrorObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRFramework.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Utilities/GTLRFramework.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRObject.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRQuery.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRQuery.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRRuntimeCommon.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRRuntimeCommon.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRService.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRURITemplate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Utilities/GTLRURITemplate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRUploadParameters.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Objects/GTLRUploadParameters.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTLRUtilities.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleAPIClientForREST/Source/Utilities/GTLRUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleAPIClientForREST-Swift.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GoogleAPIClientForREST/GoogleAPIClientForREST.framework/Headers/GoogleAPIClientForREST-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleAPIClientForREST-umbrella.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Target Support Files/GoogleAPIClientForREST/GoogleAPIClientForREST-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GoogleAPIClientForREST/GoogleAPIClientForREST.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GoogleAPIClientForREST.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDebugSelectorValidation.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDebugThreadValidation.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMLocalizedString.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/Foundation/GTMLocalizedString.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMLogger.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/Foundation/GTMLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMMethodCheck.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSDictionary+URLArguments.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSString+URLArguments.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMStringEncoding.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/Foundation/GTMStringEncoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMTypeCasting.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/DebugUtils/GTMTypeCasting.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMURLBuilder.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleToolboxForMac/Foundation/GTMURLBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/Pods_FriendlyChatSwift.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-FriendlyChatSwift-umbrella.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Target Support Files/Pods-FriendlyChatSwift/Pods-FriendlyChatSwift-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_FriendlyChatSwift-Swift.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/Pods_FriendlyChatSwift.framework/Headers/Pods_FriendlyChatSwift-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/Pods_FriendlyChatSwift.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-FriendlyChatSwift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/Protobuf/Protobuf.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Any.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Api.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Duration.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Empty.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "FieldMask.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBArray.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBArray.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBArray_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBArray_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBBootstrap.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBBootstrap.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedInputStream.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBCodedInputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedInputStream_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBCodedInputStream_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedOutputStream.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBCodedOutputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedOutputStream_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBCodedOutputStream_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDescriptor.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBDescriptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDescriptor_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDictionary.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBDictionary.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDictionary_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBDictionary_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBExtensionInternals.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBExtensionInternals.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBExtensionRegistry.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBExtensionRegistry.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBMessage.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBMessage_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBProtocolBuffers.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBProtocolBuffers.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBProtocolBuffers_RuntimeSupport.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRootObject.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBRootObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRootObject_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRuntimeTypes.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBRuntimeTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownField.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBUnknownField.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownFieldSet.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBUnknownFieldSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownFieldSet_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBUnknownFieldSet_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownField_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBUnknownField_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUtilities.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUtilities_PackagePrivate.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBWellKnownTypes.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBWellKnownTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBWireFormat.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/GPBWireFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "Protobuf-Swift.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/Protobuf/Protobuf.framework/Headers/Protobuf-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Protobuf-umbrella.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Target Support Files/Protobuf/Protobuf-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SourceContext.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Struct.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Timestamp.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Type.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Wrappers.pbobjc.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/Protobuf/Protobuf.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Protobuf.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "c.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/c.h"
+        },
+        {
+          'type': 'file',
+          'name': "cache.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/cache.h"
+        },
+        {
+          'type': 'file',
+          'name': "comparator.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/comparator.h"
+        },
+        {
+          'type': 'file',
+          'name': "db.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/db.h"
+        },
+        {
+          'type': 'file',
+          'name': "dumpfile.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/dumpfile.h"
+        },
+        {
+          'type': 'file',
+          'name': "env.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/env.h"
+        },
+        {
+          'type': 'file',
+          'name': "filter_policy.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/filter_policy.h"
+        },
+        {
+          'type': 'file',
+          'name': "iterator.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/iterator.h"
+        },
+        {
+          'type': 'file',
+          'name': "leveldb-Swift.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers/leveldb-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "leveldb-library-umbrella.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Target Support Files/leveldb-library/leveldb-library-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "options.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/options.h"
+        },
+        {
+          'type': 'file',
+          'name': "slice.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/slice.h"
+        },
+        {
+          'type': 'file',
+          'name': "status.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/status.h"
+        },
+        {
+          'type': 'file',
+          'name': "table.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/table.h"
+        },
+        {
+          'type': 'file',
+          'name': "table_builder.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/table_builder.h"
+        },
+        {
+          'type': 'file',
+          'name': "write_batch.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/leveldb-library/include/leveldb/write_batch.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/leveldb-library/leveldb.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/leveldb-library.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "nanopb-Swift.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers/nanopb-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "nanopb-umbrella.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Target Support Files/nanopb/nanopb-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/nanopb/pb.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_common.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/nanopb/pb_common.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_decode.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/nanopb/pb_decode.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_encode.h",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/nanopb/pb_encode.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jihooyim/Documents/swift/friendlychat-ios/testing/FriendlyChatSwift-gitddxqsrzlwrueaookwxjuywgmc/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

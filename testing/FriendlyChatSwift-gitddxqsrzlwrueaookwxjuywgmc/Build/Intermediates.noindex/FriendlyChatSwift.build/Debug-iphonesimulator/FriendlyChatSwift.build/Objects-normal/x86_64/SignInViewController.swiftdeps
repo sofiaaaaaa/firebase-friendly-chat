@@ -1,0 +1,620 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SignInViewController"
+provides-nominal:
+- "17FriendlyChatSwift20SignInViewControllerC"
+provides-member:
+- ["17FriendlyChatSwift20SignInViewControllerC", ""]
+provides-dynamic-lookup:
+- "handle"
+- "signInButton"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- !private "Auth"
+- "AuthStateDidChangeListenerHandle"
+- !private "Constants"
+- !private "GIDSignIn"
+- "GIDSignInButton"
+- "GIDSignInUIDelegate"
+- !private "MeasurementHelper"
+- "SignInViewController"
+- "UIViewController"
+depends-member:
+- !private ["So4AuthC", "addStateDidChangeListener"]
+- !private ["So4AuthC", "auth"]
+- !private ["So4AuthC", "removeStateDidChangeListener"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "Auth"]
+- !private ["s7CVarArgP", "Constants"]
+- !private ["s7CVarArgP", "GIDSignIn"]
+- !private ["s7CVarArgP", "MeasurementHelper"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "addStateDidChangeListener"]
+- !private ["s7CVarArgP", "auth"]
+- !private ["s7CVarArgP", "handle"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "performSegue"]
+- !private ["s7CVarArgP", "removeStateDidChangeListener"]
+- !private ["s7CVarArgP", "sendLoginEvent"]
+- !private ["s7CVarArgP", "sharedInstance"]
+- ["s7CVarArgP", "sign"]
+- ["s7CVarArgP", "signIn"]
+- !private ["s7CVarArgP", "signInSilently"]
+- ["s7CVarArgP", "signInWillDispatch"]
+- !private ["s7CVarArgP", "uiDelegate"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["17FriendlyChatSwift9ConstantsV", "Segues"]
+- !private ["s28CustomDebugStringConvertibleP", "Auth"]
+- !private ["s28CustomDebugStringConvertibleP", "Constants"]
+- !private ["s28CustomDebugStringConvertibleP", "GIDSignIn"]
+- !private ["s28CustomDebugStringConvertibleP", "MeasurementHelper"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addStateDidChangeListener"]
+- !private ["s28CustomDebugStringConvertibleP", "auth"]
+- !private ["s28CustomDebugStringConvertibleP", "handle"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "performSegue"]
+- !private ["s28CustomDebugStringConvertibleP", "removeStateDidChangeListener"]
+- !private ["s28CustomDebugStringConvertibleP", "sendLoginEvent"]
+- !private ["s28CustomDebugStringConvertibleP", "sharedInstance"]
+- ["s28CustomDebugStringConvertibleP", "sign"]
+- ["s28CustomDebugStringConvertibleP", "signIn"]
+- !private ["s28CustomDebugStringConvertibleP", "signInSilently"]
+- ["s28CustomDebugStringConvertibleP", "signInWillDispatch"]
+- !private ["s28CustomDebugStringConvertibleP", "uiDelegate"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "Auth"]
+- !private ["s23CustomStringConvertibleP", "Constants"]
+- !private ["s23CustomStringConvertibleP", "GIDSignIn"]
+- !private ["s23CustomStringConvertibleP", "MeasurementHelper"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "addStateDidChangeListener"]
+- !private ["s23CustomStringConvertibleP", "auth"]
+- !private ["s23CustomStringConvertibleP", "handle"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "performSegue"]
+- !private ["s23CustomStringConvertibleP", "removeStateDidChangeListener"]
+- !private ["s23CustomStringConvertibleP", "sendLoginEvent"]
+- !private ["s23CustomStringConvertibleP", "sharedInstance"]
+- ["s23CustomStringConvertibleP", "sign"]
+- ["s23CustomStringConvertibleP", "signIn"]
+- !private ["s23CustomStringConvertibleP", "signInSilently"]
+- ["s23CustomStringConvertibleP", "signInWillDispatch"]
+- !private ["s23CustomStringConvertibleP", "uiDelegate"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "Auth"]
+- !private ["s9EquatableP", "Constants"]
+- !private ["s9EquatableP", "GIDSignIn"]
+- !private ["s9EquatableP", "MeasurementHelper"]
+- ["s9EquatableP", ""]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "addStateDidChangeListener"]
+- !private ["s9EquatableP", "auth"]
+- !private ["s9EquatableP", "handle"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "performSegue"]
+- !private ["s9EquatableP", "removeStateDidChangeListener"]
+- !private ["s9EquatableP", "sendLoginEvent"]
+- !private ["s9EquatableP", "sharedInstance"]
+- ["s9EquatableP", "sign"]
+- ["s9EquatableP", "signIn"]
+- !private ["s9EquatableP", "signInSilently"]
+- ["s9EquatableP", "signInWillDispatch"]
+- !private ["s9EquatableP", "uiDelegate"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["So9GIDSignInC", "sharedInstance"]
+- !private ["So9GIDSignInC", "signInSilently"]
+- !private ["So9GIDSignInC", "uiDelegate"]
+- !private ["So19GIDSignInUIDelegateP", "Auth"]
+- !private ["So19GIDSignInUIDelegateP", "Constants"]
+- !private ["So19GIDSignInUIDelegateP", "GIDSignIn"]
+- !private ["So19GIDSignInUIDelegateP", "MeasurementHelper"]
+- ["So19GIDSignInUIDelegateP", ""]
+- !private ["So19GIDSignInUIDelegateP", "handle"]
+- !private ["So19GIDSignInUIDelegateP", "performSegue"]
+- ["So19GIDSignInUIDelegateP", "sign"]
+- ["So19GIDSignInUIDelegateP", "signIn"]
+- ["So19GIDSignInUIDelegateP", "signInWillDispatch"]
+- !private ["s8HashableP", "Auth"]
+- !private ["s8HashableP", "Constants"]
+- !private ["s8HashableP", "GIDSignIn"]
+- !private ["s8HashableP", "MeasurementHelper"]
+- ["s8HashableP", ""]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "addStateDidChangeListener"]
+- !private ["s8HashableP", "auth"]
+- !private ["s8HashableP", "handle"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "performSegue"]
+- !private ["s8HashableP", "removeStateDidChangeListener"]
+- !private ["s8HashableP", "sendLoginEvent"]
+- !private ["s8HashableP", "sharedInstance"]
+- ["s8HashableP", "sign"]
+- ["s8HashableP", "signIn"]
+- !private ["s8HashableP", "signInSilently"]
+- ["s8HashableP", "signInWillDispatch"]
+- !private ["s8HashableP", "uiDelegate"]
+- !private ["s8HashableP", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["17FriendlyChatSwift17MeasurementHelperC", "sendLoginEvent"]
+- !private ["So8NSCodingP", "Auth"]
+- !private ["So8NSCodingP", "Constants"]
+- !private ["So8NSCodingP", "GIDSignIn"]
+- !private ["So8NSCodingP", "MeasurementHelper"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "handle"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "performSegue"]
+- ["So8NSCodingP", "sign"]
+- ["So8NSCodingP", "signIn"]
+- ["So8NSCodingP", "signInWillDispatch"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Auth"]
+- !private ["So26NSExtensionRequestHandlingP", "Constants"]
+- !private ["So26NSExtensionRequestHandlingP", "GIDSignIn"]
+- !private ["So26NSExtensionRequestHandlingP", "MeasurementHelper"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "handle"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "performSegue"]
+- ["So26NSExtensionRequestHandlingP", "sign"]
+- ["So26NSExtensionRequestHandlingP", "signIn"]
+- ["So26NSExtensionRequestHandlingP", "signInWillDispatch"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "Auth"]
+- ["So8NSObjectC", "AuthStateDidChangeListenerHandle"]
+- !private ["So8NSObjectC", "Constants"]
+- !private ["So8NSObjectC", "GIDSignIn"]
+- ["So8NSObjectC", "GIDSignInButton"]
+- !private ["So8NSObjectC", "MeasurementHelper"]
+- !private ["So8NSObjectC", "addStateDidChangeListener"]
+- !private ["So8NSObjectC", "auth"]
+- ["So8NSObjectC", "handle"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "performSegue"]
+- !private ["So8NSObjectC", "removeStateDidChangeListener"]
+- !private ["So8NSObjectC", "sendLoginEvent"]
+- !private ["So8NSObjectC", "sharedInstance"]
+- ["So8NSObjectC", "sign"]
+- ["So8NSObjectC", "signIn"]
+- ["So8NSObjectC", "signInButton"]
+- !private ["So8NSObjectC", "signInSilently"]
+- ["So8NSObjectC", "signInWillDispatch"]
+- !private ["So8NSObjectC", "uiDelegate"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "Auth"]
+- !private ["So16NSObjectProtocolP", "Constants"]
+- !private ["So16NSObjectProtocolP", "GIDSignIn"]
+- !private ["So16NSObjectProtocolP", "MeasurementHelper"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So16NSObjectProtocolP", "addStateDidChangeListener"]
+- !private ["So16NSObjectProtocolP", "auth"]
+- !private ["So16NSObjectProtocolP", "handle"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "performSegue"]
+- !private ["So16NSObjectProtocolP", "removeStateDidChangeListener"]
+- !private ["So16NSObjectProtocolP", "sendLoginEvent"]
+- !private ["So16NSObjectProtocolP", "sharedInstance"]
+- ["So16NSObjectProtocolP", "sign"]
+- ["So16NSObjectProtocolP", "signIn"]
+- !private ["So16NSObjectProtocolP", "signInSilently"]
+- ["So16NSObjectProtocolP", "signInWillDispatch"]
+- !private ["So16NSObjectProtocolP", "uiDelegate"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- !private ["17FriendlyChatSwift9ConstantsV6SeguesV", "SignInToFp"]
+- !private ["17FriendlyChatSwift20SignInViewControllerC", "Auth"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "AuthStateDidChangeListenerHandle"]
+- !private ["17FriendlyChatSwift20SignInViewControllerC", "Constants"]
+- !private ["17FriendlyChatSwift20SignInViewControllerC", "GIDSignIn"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "GIDSignInButton"]
+- !private ["17FriendlyChatSwift20SignInViewControllerC", "MeasurementHelper"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "deinit"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "handle"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "init"]
+- !private ["17FriendlyChatSwift20SignInViewControllerC", "performSegue"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "sign"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "signIn"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "signInButton"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "signInWillDispatch"]
+- ["17FriendlyChatSwift20SignInViewControllerC", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "Auth"]
+- !private ["So21UIAppearanceContainerP", "Constants"]
+- !private ["So21UIAppearanceContainerP", "GIDSignIn"]
+- !private ["So21UIAppearanceContainerP", "MeasurementHelper"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "handle"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "performSegue"]
+- ["So21UIAppearanceContainerP", "sign"]
+- ["So21UIAppearanceContainerP", "signIn"]
+- ["So21UIAppearanceContainerP", "signInWillDispatch"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "Auth"]
+- !private ["So18UIContentContainerP", "Constants"]
+- !private ["So18UIContentContainerP", "GIDSignIn"]
+- !private ["So18UIContentContainerP", "MeasurementHelper"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "handle"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "performSegue"]
+- ["So18UIContentContainerP", "sign"]
+- ["So18UIContentContainerP", "signIn"]
+- ["So18UIContentContainerP", "signInWillDispatch"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "Auth"]
+- !private ["So18UIFocusEnvironmentP", "Constants"]
+- !private ["So18UIFocusEnvironmentP", "GIDSignIn"]
+- !private ["So18UIFocusEnvironmentP", "MeasurementHelper"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "handle"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "performSegue"]
+- ["So18UIFocusEnvironmentP", "sign"]
+- ["So18UIFocusEnvironmentP", "signIn"]
+- ["So18UIFocusEnvironmentP", "signInWillDispatch"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "Auth"]
+- !private ["So30UIPasteConfigurationSupportingP", "Constants"]
+- !private ["So30UIPasteConfigurationSupportingP", "GIDSignIn"]
+- !private ["So30UIPasteConfigurationSupportingP", "MeasurementHelper"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "handle"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "performSegue"]
+- ["So30UIPasteConfigurationSupportingP", "sign"]
+- ["So30UIPasteConfigurationSupportingP", "signIn"]
+- ["So30UIPasteConfigurationSupportingP", "signInWillDispatch"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "Auth"]
+- ["So11UIResponderC", "AuthStateDidChangeListenerHandle"]
+- !private ["So11UIResponderC", "Constants"]
+- !private ["So11UIResponderC", "GIDSignIn"]
+- ["So11UIResponderC", "GIDSignInButton"]
+- !private ["So11UIResponderC", "MeasurementHelper"]
+- ["So11UIResponderC", "handle"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "performSegue"]
+- ["So11UIResponderC", "sign"]
+- ["So11UIResponderC", "signIn"]
+- ["So11UIResponderC", "signInButton"]
+- ["So11UIResponderC", "signInWillDispatch"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Auth"]
+- !private ["So30UIResponderStandardEditActionsP", "Constants"]
+- !private ["So30UIResponderStandardEditActionsP", "GIDSignIn"]
+- !private ["So30UIResponderStandardEditActionsP", "MeasurementHelper"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "handle"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "performSegue"]
+- ["So30UIResponderStandardEditActionsP", "sign"]
+- ["So30UIResponderStandardEditActionsP", "signIn"]
+- ["So30UIResponderStandardEditActionsP", "signInWillDispatch"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "Auth"]
+- !private ["So16UIStateRestoringP", "Constants"]
+- !private ["So16UIStateRestoringP", "GIDSignIn"]
+- !private ["So16UIStateRestoringP", "MeasurementHelper"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "handle"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "performSegue"]
+- ["So16UIStateRestoringP", "sign"]
+- ["So16UIStateRestoringP", "signIn"]
+- ["So16UIStateRestoringP", "signInWillDispatch"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "Auth"]
+- !private ["So18UITraitEnvironmentP", "Constants"]
+- !private ["So18UITraitEnvironmentP", "GIDSignIn"]
+- !private ["So18UITraitEnvironmentP", "MeasurementHelper"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "handle"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "performSegue"]
+- ["So18UITraitEnvironmentP", "sign"]
+- ["So18UITraitEnvironmentP", "signIn"]
+- ["So18UITraitEnvironmentP", "signInWillDispatch"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So16UIViewControllerC", "Auth"]
+- ["So16UIViewControllerC", "AuthStateDidChangeListenerHandle"]
+- !private ["So16UIViewControllerC", "Constants"]
+- !private ["So16UIViewControllerC", "GIDSignIn"]
+- ["So16UIViewControllerC", "GIDSignInButton"]
+- !private ["So16UIViewControllerC", "MeasurementHelper"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "handle"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "performSegue"]
+- ["So16UIViewControllerC", "sign"]
+- ["So16UIViewControllerC", "signIn"]
+- ["So16UIViewControllerC", "signInButton"]
+- ["So16UIViewControllerC", "signInWillDispatch"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Auth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Constants"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GIDSignIn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "MeasurementHelper"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addStateDidChangeListener"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "auth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "handle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "performSegue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeStateDidChangeListener"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sendLoginEvent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sharedInstance"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "sign"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "signIn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "signInSilently"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "signInWillDispatch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uiDelegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- !private "So4AuthC"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "17FriendlyChatSwift9ConstantsV"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "So9GIDSignInC"
+- "So19GIDSignInUIDelegateP"
+- "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "17FriendlyChatSwift17MeasurementHelperC"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "17FriendlyChatSwift9ConstantsV6SeguesV"
+- "17FriendlyChatSwift20SignInViewControllerC"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So16UIViewControllerC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDProfileData.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Fabric/iOS/Fabric.framework/Headers/Fabric.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeCustomTemplateAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedUnifiedNativeAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeAppInstallAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeContentAd.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdReward.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedUnifiedNativeAdNotificationSource.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeAdNotificationSource.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSStackFrame.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchase.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAdDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeAdDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAdDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAdDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchaseDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSizeDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAdUnconfirmedClickDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitialDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedInterstitialDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitialDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAudioVideoManagerDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoControllerDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBannerDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAppEventDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdViewDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerViewDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedBannerViewDelegate.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSize.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Headers/FIRRemoteConfig.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Headers/FirebaseRemoteConfig.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSLogging.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAd+ConfirmationClick.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDynamicLinks/Frameworks/FirebaseDynamicLinks.framework/Headers/FIRDynamicLink.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitial.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPInterstitial.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitial.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkAdapterProtocol.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkAdapterProtocol.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkConnectorProtocol.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkConnectorProtocol.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignIn.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInvites/Frameworks/FirebaseInvites.framework/Headers/FIRInvitesTargetApplication.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDAuthentication.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage+Mediation.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDynamicLinks/Frameworks/FirebaseDynamicLinks.framework/Headers/FIRDynamicLinksCommon.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignInButton.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoader.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAudioVideoManager.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoController.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDebugOptionsViewController.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBanner.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDGoogleUser.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInvites/Frameworks/FirebaseInvites.framework/Headers/FIRInvitesError.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequestError.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelator.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAdAssetIDs.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAdAssetIDs.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADExtras.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdNetworkExtras.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventExtras.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/Crashlytics.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMobileAds.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAds.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAdsDefines.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderAdTypes.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInvites/Frameworks/FirebaseInvites.framework/Headers/FIRInvites.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInvites/Frameworks/FirebaseInvites.framework/Headers/FirebaseInvites.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Fabric/iOS/Fabric.framework/Headers/FABAttributes.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSAttributes.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDynamicLinks/Frameworks/FirebaseDynamicLinks.framework/Headers/FIRDynamicLinks.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDynamicLinks/Frameworks/FirebaseDynamicLinks.framework/Headers/FirebaseDynamicLinks.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMEnums.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdViewAdOptions.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoOptions.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImageAdLoaderOptions.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelatorAdLoaderOptions.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMultipleAdsAdLoaderOptions.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerViewOptions.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAdAssetIdentifiers.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventParameters.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/Answers.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDynamicLinks/Frameworks/FirebaseDynamicLinks.framework/Headers/FDLURLComponents.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/CLSReport.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInvites/Frameworks/FirebaseInvites.framework/Headers/FIRInvitesSwiftNameSupport.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequest.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPRequest.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdRequest.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchRequest.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDynamicHeightSearchRequest.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventRequest.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediaView.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdView.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerView.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerView.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchBannerView.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdChoicesView.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Crashlytics/iOS/Crashlytics.framework/Headers/ANSCompatibility.h"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Fabric/iOS/Fabric.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseRemoteConfig/Frameworks/FirebaseRemoteConfig.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/GoogleSignIn/Frameworks/GoogleSignIn.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Crashlytics/iOS/Crashlytics.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseInvites/Frameworks/FirebaseInvites.framework/Modules/module.modulemap"
+- "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/Pods/FirebaseDynamicLinks/Frameworks/FirebaseDynamicLinks.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/Photos.framework/Headers/Photos.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/StoreKit.framework/Headers/StoreKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "8e5b0ff2beeae1cc3ed9f7a750546b3d"

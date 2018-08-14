@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "0d6c4b8d30b210b4cf4ac5b3234221d9"
+build_time: [1534161728, 349646000]
+inputs:
+  "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/FriendlyChatSwift/SignInViewController.swift": [1534154110, 0]
+  "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/FriendlyChatSwift/FCViewController.swift": [1534160222, 0]
+  "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/FriendlyChatSwift/AppDelegate.swift": [1534152151, 0]
+  "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/FriendlyChatSwift/MeasurementHelper.swift": [1534159705, 0]
+  "/Users/jihooyim/Documents/swift/friendlychat-ios/ios-starter/swift-starter/FriendlyChatSwift/Constants.swift": [1534146710, 0]
